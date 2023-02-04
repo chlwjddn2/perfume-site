@@ -498,6 +498,7 @@ button{
 }
 .sub-banner h2{
   text-indent: -9999px;
+  display: none;
 }
 .sub-banner img{
 
@@ -824,7 +825,7 @@ button{
     font-size: .5rem;
   }
   .pick-items .pick-item a .item-description{
-    font-size: .2rem;
+    font-size: .5rem;
   }
   .daily-items .daily-item a .item-title{
     font-size: .5rem;
@@ -899,12 +900,12 @@ button{
     left: 25%;
   }
   .sub-banner .text-box .title{
-    font-size: 1.5rem;
+    font-size: 0.9rem;
     color: #424242;
-    line-height: 35px;
+    line-height: 25px;
   }
   .sub-banner .text-box .sub-title{
-    font-size: 1rem;
+    font-size: 0.7rem;
     line-height: 25px;
     color: #424242;
     margin: 0 0 24px 0;
